@@ -1,22 +1,22 @@
-#Trabalho de Laboratório de Computadores em C
+# Trabalho de Laboratório de Computadores em C
 
 
-##Trabalho realizado por:
+## Trabalho realizado por:
 
 -Cristiana Morais da Silva up201505454
 
 -Sara Daniela Ferreira de Sousa up201504217
 
 
-#Cliente
+# Cliente
 
 
-##Instruções de Compilação
+## Instruções de Compilação
 
 $ gcc main.c -o cliente (falta coisas)
 
 
-##Menu Cliente
+## Menu Cliente
 
 1) Gerir Saldo
 
@@ -27,7 +27,7 @@ $ gcc main.c -o cliente (falta coisas)
 4) Logout
 
 
-##O Cliente apresenta as seguinte funcionalidades:
+## O Cliente apresenta as seguinte funcionalidades:
 
 • Gerir Saldo
 
@@ -38,15 +38,15 @@ $ gcc main.c -o cliente (falta coisas)
 • Logout
 
 
-#Servidor
+# Servidor
 
 
-##Instruções de Compilação
+## Instruções de Compilação
 
 $ gcc main.c -o cliente (falta coisas)
 
 
-##Menu Servidor
+## Menu Servidor
 
 1) Criar Novo Utilizador
 
@@ -57,7 +57,7 @@ $ gcc main.c -o cliente (falta coisas)
 4) Logout
 
 
-##Funcionalidades Servidor
+## Funcionalidades Servidor
 
 O Servidor apresenta as seguinte funcionalidades:
 
@@ -70,7 +70,7 @@ O Servidor apresenta as seguinte funcionalidades:
  Logout
 
 
-##Gerir Stocks
+## Gerir Stocks
 
 Nesta funcionalidade, o gestor do supermercado poderá incluir um novo produto,
 especificando o codigo (que deverá ser sequencial), descrição, quantidade, custo
@@ -79,7 +79,7 @@ a quantidade, custo e preço de um produto existente, bem como eliminar um
 produto do sistema.
 
 
-##Ver Estatísticas
+## Ver Estatísticas
 
 Nesta funcionalidade, o gestor do supermercado poderá ver estatisticas relacionadas
 com os produtos e clientes, como por exemplo:
